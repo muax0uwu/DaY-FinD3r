@@ -128,7 +128,7 @@ def main():
 
 
     print("\t --------------------------------------------")
-    print(f"\t\t\tThe Day was/will be {res_day}")
+    print(f"\t\tThe Day was/will be {res_day}")
     print("\t --------------------------------------------")
 
 
